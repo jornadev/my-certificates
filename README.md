@@ -10,25 +10,24 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ## Certificados
 
 ### Desenvolvimento de Software
-- [Certificado Java](./assets/Desenvolvimento_de_Software/Certificado_Java.pdf)
-- [Certificado Python](./assets/Desenvolvimento_de_Software/Certificado_Python.pdf)
+- [Orientacao a Objetos com Java](./assets/Orientacao-a-Objetos-com-Java.pdf)
+- [Java COMPLETO](./assets/Java-COMPLETO.pdf)
+- [API REST e Spring Boot](./assets/API-REST-e-Spring-Boot.pdf)
+- [Microservicos e Mensageria com Spring Cloud e Docker](./assets/Microservicos-e-Mensageria-com-Spring-Cloud-e-Docker.pdf)
+- [Testes automatizados com Spring Boot](./assets/Testes-automatizados-com-Spring-Boot.pdf)
 
-### Redes e Infraestrutura
-- [Certificado Cisco](./assets/Redes_e_Infraestrutura/Certificado_Cisco.pdf)
-- [Certificado Segurança Redes](./assets/Redes_e_Infraestrutura/Certificado_Seguranca_Redes.pdf)
+### AWS
+- [Computacao em nuvem Amazon AWS](./assets/Computacao-em-nuvem-Amazon-AWS.pdf)
+- [Aprenda a criar servidores virtuais com EC2 na Amazon AWS](./assets/Aprenda-a-criar-servidores-virtuais-com-EC2-na-Amazon-AWS.pdf)
 
 ### Banco de Dados
-- [Certificado PostgreSQL](./assets/Banco_de_Dados/Certificado_PostgreSQL.pdf)
-- [Certificado MySQL](./assets/Banco_de_Dados/Certificado_MySQL.pdf)
+- [SQL e MySQL](./assets/SQL-e-MySQL.pdf)
 
 ### Outros
-- [Certificado Git/GitHub](./assets/Outros/Certificado_Git_GitHub.pdf)
-- [Certificado Machine Learning](./assets/Outros/Certificado_Machine_Learning.pdf)
+- [Git e GitHub](./assets/Git-e-GitHub.pdf)
 
 ### Faculdade
-- [Certificado Git/GitHub](./assets/Faculdade/Certificado_Git_GitHub.pdf)
-- [Certificado Machine Learning](./assets/Faculdade/Certificado_Machine_Learning.pdf)
-
+- [ERES 2024](./assets/ERES2024.pdf)
 
 Nota: Algumas informações pessoais podem ter sido ocultadas dos certificados para preservar a privacidade.
 
