@@ -4,8 +4,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 
 ## Como navegar por este repositório?
 
-- Os certificados estão organizados por categorias, como Desenvolvimento de Software, Redes e Infraestrutura, Banco de Dados, e outros.
-- Cada certificado está acompanhado de uma breve descrição do curso ou treinamento realizado, incluindo a instituição emissora e a data de conclusão.
+- Os certificados estão organizados por categorias, como Desenvolvimento de Software, Faculdade, Banco de Dados, e outros.
 
 ## Certificados
 
