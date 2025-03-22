@@ -25,6 +25,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ### Outros
 - [Git e GitHub](./assets/Git-e-GitHub.pdf)
 - [Curso Completo em CyberSecurity](./assets/Curso-Completo-em-Cyber-Security.pdf)
+- [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
+
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
