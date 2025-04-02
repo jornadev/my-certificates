@@ -26,6 +26,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Git e GitHub](./assets/Git-e-GitHub.pdf)
 - [Curso Completo em CyberSecurity](./assets/Curso-Completo-em-Cyber-Security.pdf)
 - [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
+- [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
+
 
 
 ### Faculdade
