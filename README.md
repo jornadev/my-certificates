@@ -15,6 +15,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [API REST e Spring Boot](./assets/API-REST-e-Spring-Boot.pdf)
 - [Microservicos e Mensageria com Spring Cloud e Docker](./assets/Microservicos-e-Mensageria-com-Spring-Cloud-e-Docker.pdf)
 - [Testes automatizados com Spring Boot](./assets/Testes-automatizados-com-Spring-Boot.pdf)
+- [Python básico](./assets/python-basico.pdf)
 
 ### AWS
 - [Computacao em nuvem Amazon AWS](./assets/Computacao-em-nuvem-Amazon-AWS.pdf)
