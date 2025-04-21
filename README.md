@@ -29,6 +29,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Curso Completo em CyberSecurity](./assets/Curso-Completo-em-Cyber-Security.pdf)
 - [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
 - [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
+- [Inglês Essencial Para Profissionais de TI](./assets/Ingles-para-TI.pdf)
+
 
 
 
