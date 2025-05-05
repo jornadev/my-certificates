@@ -31,9 +31,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
 - [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
 - [Inglês Essencial Para Profissionais de TI](./assets/Ingles-para-TI.pdf)
-
-
-
+- [Entendendo e Documentando REST/RESTFul APIs](./assets/entendendo-documentando-rest-restful-apis.pdf)
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
