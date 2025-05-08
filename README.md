@@ -21,6 +21,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Computacao em nuvem Amazon AWS](./assets/Computacao-em-nuvem-Amazon-AWS.pdf)
 - [Aprenda a criar servidores virtuais com EC2 na Amazon AWS](./assets/Aprenda-a-criar-servidores-virtuais-com-EC2-na-Amazon-AWS.pdf)
 - [Treinamento para a certificação Cloud Practitioner](./assets/treinamento-cloud-practitioner.pdf)
+- [Curso Certificação AWS Certified Cloud Practitioner 2025 CLF-02](./assets/curso-certificacao-aws.pdf)
+
 
 ### Banco de Dados
 - [SQL e MySQL](./assets/SQL-e-MySQL.pdf)
