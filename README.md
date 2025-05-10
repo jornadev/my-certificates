@@ -7,7 +7,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - Os certificados estão organizados por categorias, como Desenvolvimento de Software, Faculdade, Banco de Dados, e outros.
 
 ## Certificações
-- [AWS Cloud Practitioner Certified - AWS CLF-02](./assets/AWS-Cloud-Practitioner-Certified.pdf)
+- [AWS Cloud Practitioner Certified - AWS CLF-02](./assets/AWS-Certified-Cloud-Practitioner.pdf)
 
 ## Certificados
 
