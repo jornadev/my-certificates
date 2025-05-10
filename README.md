@@ -14,6 +14,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ### Desenvolvimento de Software
 - [Orientacao a Objetos com Java](./assets/Orientacao-a-Objetos-com-Java.pdf)
 - [Spring Boot 2025 REST API's do 0 à AWS e GCP c Java e Docker](./assets/Spring-Boot-REST-APIs-AWS.pdf)
+- [Microserviços Java com Spring Boot e Spring Cloud](./assets/microservicos-java-springcloud-springboot.pdf)
 - [Java COMPLETO](./assets/Java-COMPLETO.pdf)
 - [API REST e Spring Boot](./assets/API-REST-e-Spring-Boot.pdf)
 - [Microservicos e Mensageria com Spring Cloud e Docker](./assets/Microservicos-e-Mensageria-com-Spring-Cloud-e-Docker.pdf)
