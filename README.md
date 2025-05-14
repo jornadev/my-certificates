@@ -19,6 +19,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [API REST e Spring Boot](./assets/API-REST-e-Spring-Boot.pdf)
 - [Microservicos e Mensageria com Spring Cloud e Docker](./assets/Microservicos-e-Mensageria-com-Spring-Cloud-e-Docker.pdf)
 - [Testes automatizados com Spring Boot](./assets/Testes-automatizados-com-Spring-Boot.pdf)
+- [Criando Microserviços em Java com AWS ECS Fargate e AWS CDK](./assets/criando_microservicos_java_com_ECS_Fargate_CDK.pdf)
 - [Python básico](./assets/python-basico.pdf)
 
 ### AWS
@@ -38,6 +39,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
 - [Inglês Essencial Para Profissionais de TI](./assets/Ingles-para-TI.pdf)
 - [Entendendo e Documentando REST/RESTFul APIs](./assets/entendendo-documentando-rest-restful-apis.pdf)
+- [Curso Inteligência Artificial](./assets/curso_inteligencia_artificial.pdf)
+- [Curso ChatGPT](./assets/curso_chatGPT.pdf)
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
