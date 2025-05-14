@@ -28,7 +28,6 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Treinamento para a certificação Cloud Practitioner](./assets/treinamento-cloud-practitioner.pdf)
 - [Curso Certificação AWS Certified Cloud Practitioner 2025 CLF-02](./assets/curso-certificacao-aws.pdf)
 
-
 ### Banco de Dados
 - [SQL e MySQL](./assets/SQL-e-MySQL.pdf)
 
@@ -41,6 +40,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Entendendo e Documentando REST/RESTFul APIs](./assets/entendendo-documentando-rest-restful-apis.pdf)
 - [Curso Inteligência Artificial](./assets/curso_inteligencia_artificial.pdf)
 - [Curso ChatGPT](./assets/curso_chatGPT.pdf)
+- [Fundamentals of Bckend Engineering](./assets/fundamentals_of_backend_engineering.pdf)
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
