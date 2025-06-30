@@ -9,6 +9,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ## Certificações
 
 - [AWS Cloud Practitioner Certified - AWS CLF-02](./assets/AWS-Certified-Cloud-Practitioner.pdf)
+- [Microsoft Certified: Azure Fundamentals - Microsoft AZ-900](./assets/Az900.pdf)
 
 ## Certificados
 
