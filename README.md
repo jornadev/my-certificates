@@ -33,12 +33,15 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ### Banco de Dados
 - [SQL e MySQL](./assets/SQL-e-MySQL.pdf)
 
+### Soft Skills
+- [Curso foco: trazendo mais resultados para o dia a dia](./assets/Curso-Foco-trazendo-mais-resultados-para-o-dia-a-dia-Alura.pdf)
+- [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
+  
 ### Outros
 - [Estágio em desenvolvimento Back-End na Compass UOL](./assets/compassUOL.pdf)
 - [Git e GitHub](./assets/Git-e-GitHub.pdf)
 - [Treinamento Certificação Microsoft AZ-900](./assets/treinamento-az900.pdf)
 - [Curso Completo em CyberSecurity](./assets/Curso-Completo-em-Cyber-Security.pdf)
-- [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
 - [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
 - [Inglês Essencial Para Profissionais de TI](./assets/Ingles-para-TI.pdf)
 - [Entendendo e Documentando REST/RESTFul APIs](./assets/entendendo-documentando-rest-restful-apis.pdf)
