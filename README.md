@@ -51,6 +51,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Fundamentals of Backend Engineering](./assets/fundamentals_of_backend_engineering.pdf)
 - [Chalente Amigo Secreto Alura](./assets/Challenge-amigo-secreto.pdf)
 - [Curso IA](./assets/curso-ia.pdf)
+- [Engenharia de Prompt](./assets/curso-engenharia-de-prompt.pdf)
+
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
