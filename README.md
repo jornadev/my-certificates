@@ -49,6 +49,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Curso ChatGPT](./assets/linkedin-para-profissionais.pdf)
 - [Curso Linkedin Para Profissionais](./assets/curso_chatGPT.pdf)
 - [Fundamentals of Backend Engineering](./assets/fundamentals_of_backend_engineering.pdf)
+- [Chalente Amigo Secreto Alura](./assets/Challenge-amigo-secreto.pdf)
+
 
 ### Faculdade
 - [ERES 2024](./assets/ERES2024.pdf)
