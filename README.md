@@ -46,7 +46,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Inglês Essencial Para Profissionais de TI](./assets/Ingles-para-TI.pdf)
 - [Entendendo e Documentando REST/RESTFul APIs](./assets/entendendo-documentando-rest-restful-apis.pdf)
 - [Curso Inteligência Artificial](./assets/curso_inteligencia_artificial.pdf)
-- [Curso ChatGPT](./assets/curso_chatGPT.pdf)
+- [Curso ChatGPT](./assets/linkedin-para-profissionais.pdf)
+- [Curso Linkedin Para Profissionais](./assets/curso_chatGPT.pdf)
 - [Fundamentals of Backend Engineering](./assets/fundamentals_of_backend_engineering.pdf)
 
 ### Faculdade
