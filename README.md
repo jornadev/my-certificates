@@ -40,6 +40,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 ### Outros
 - [Estágio em desenvolvimento Back-End na Compass UOL](./assets/compassUOL.pdf)
 - [Git e GitHub](./assets/Git-e-GitHub.pdf)
+- [Curso Git e Github Alura](./assets/Curso-git-github-alura.pdf)
 - [Treinamento Certificação Microsoft AZ-900](./assets/treinamento-az900.pdf)
 - [Curso Completo em CyberSecurity](./assets/Curso-Completo-em-Cyber-Security.pdf)
 - [Inglês Extremo - Curso Completo do Zero à Fluência](./assets/Ingles-extremo.pdf)
