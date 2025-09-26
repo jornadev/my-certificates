@@ -41,7 +41,8 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Curso foco: trazendo mais resultados para o dia a dia](./assets/Curso-Foco-trazendo-mais-resultados-para-o-dia-a-dia-Alura.pdf)
 - [Curso de Comunicação e Oratória](./assets/comunicacao-e-oratoria.pdf)
 - [Aprender a aprender, autodesenvolvimento Alura](./assets/aprender-a-aprender-autodesenvolvimento-alura.pdf)
-  
+- [Hábitos Produtivos Alura](./assets/Curso-Hábitos-produtivos-Alura.pdf)
+
 ### Outros
 - [Estágio em desenvolvimento Back-End na Compass UOL](./assets/compassUOL.pdf)
 - [Git e GitHub](./assets/Git-e-GitHub.pdf)
