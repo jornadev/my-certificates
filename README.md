@@ -23,6 +23,7 @@ Este repositório tem como objetivo único e exclusivamente apresentar todos os 
 - [Testes automatizados com Spring Boot](./assets/Testes-automatizados-com-Spring-Boot.pdf)
 - [Criando Microserviços em Java com AWS ECS Fargate e AWS CDK](./assets/criando_microservicos_java_com_ECS_Fargate_CDK.pdf)
 - [Python básico](./assets/python-basico.pdf)
+- [Lógica de programação e algoritmos em Javascrpit](./assets/logica-de-programacao-com-javascript.pdf)
 - [Curso HTML e CSS Alura pt.1](./assets/html-css-pt1-alura.pdf)
 - [Curso HTML e CSS Alura pt.2](./assets/html-css-pt2-alura.pdf)
 - [Curso HTML e CSS Alura pt.3](./assets/html-css-pt3-alura.pdf)
